@@ -1,5 +1,5 @@
 /*
- * Alumno:Lopéz Esquivel Andrés
+ * Alumno:Bueno Rosas Brayan Omar
  * Grupo:5IM8
  * Version:1.0
  */

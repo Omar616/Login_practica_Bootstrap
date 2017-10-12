@@ -1,7 +1,7 @@
 package Modelo;
 
 /*
- * Alumno:Lopéz Esquivel Andrés
+ * Alumno:Bueno Rosas Brayan Omar
  * Grupo:5IM8
  * Version:1.0
  */
@@ -9,7 +9,7 @@ import java.sql.*;
 import java.io.*;
 /**
  *
- * @author Andrés Lopéz Esquivel
+ * @author Bueno Rosas Brayan Omar
  */
 public class BaseDatos { 
     Connection con = null; //Variables para la base de datos
